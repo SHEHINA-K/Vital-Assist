@@ -1,8 +1,6 @@
 # Vital-Assist
 
 
-Memory updated
-Here's a description for the VitalAssist project to add to your GitHub README file:
 
 VitalAssist
 VitalAssist is an AI-driven medical chatbot designed to provide rapid triage and initial care recommendations in emergency situations. Utilizing Retrieval-Augmented Generation (RAG) and fine-tuning with the model "Llama3-8b-8192," the system offers evidence-based guidance by assessing patient symptoms and prioritizing critical cases. VitalAssist aims to bridge the gap between patients and medical professionals, empowering individuals to take informed actions until professional help arrives.
